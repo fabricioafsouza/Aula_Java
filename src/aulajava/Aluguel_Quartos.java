@@ -10,6 +10,7 @@ public class Aluguel_Quartos {
 		
 		Aluguel[] vet = new Aluguel[10];
 		
+		System.out.println("Teste commit github.");
 		System.out.print("Quantos quartos serão alugados: ");
 		int n = sc.nextInt();
 		
